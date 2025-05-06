@@ -11,7 +11,7 @@
 ## Contributors
 
 - [Kudupudi Mohan Kumar](https://github.com/kudupudimohankumar2)  
-- [Kanika Bikshapathi](https://github.com/bhikshapathi-iisc)  
+- [Kaniki Bikshapathi](https://github.com/bhikshapathi-iisc)  
 
 ## Abstract:
 Generate realistic mirror reflections in two mirrors using diffusion models formulating it as an inpainting task. Here, we also condition the diffusion model with depth information to generate realistic mirror reflections in the generated images.
